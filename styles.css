@@ -1,0 +1,44 @@
+body {}
+
+.top {
+    background-color: #65acf7;
+    margin: 0px 0px 0px 0px;
+}
+
+.infobar {
+    background-color: #e85656;
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 0px 50px 0px;
+}
+
+img {
+    width: 250px;
+    height: 350px;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.subheading {
+    font-family: 'Libre Bodoni', cursive;
+    font-size: 20px;
+}
+
+.images {
+    margin: 0px 0px 50px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.You {
+    background-image:
+        url("https://bestanimations.com/media/usa/93200664usa-flag-amercan-waving-gif.gif");
+    color: white;
+    font-weight: 900;
+}
+
+.you {
+    font-family: 'Montserrat', sans-serif;
+}
